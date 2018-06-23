@@ -12,7 +12,7 @@ To run this program you must have the 64 bit version of Python3 and numpy instal
   + to install:
     + windows: ```pip install -U numpy```
     + other: ```sudo pip install -U numpy```
-    
+
 ## Running The Code
 + to run the code, open a terminal in the folder and run the following command:
-  + ```python main.py```
+  + ```python tic_tac_toe.py```
